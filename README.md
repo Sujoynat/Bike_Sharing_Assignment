@@ -1,6 +1,5 @@
 # Bike-sharing-assignment
 
-Bike-Sharing-Assignment
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -39,4 +38,5 @@ Significant variables to predict the demand for shared bikes
 * months
 * Year
 * weathersit
-The linear regression model was able to predict bike demand precisely with an R2 Score of 82%
+
+## The linear regression model was able to predict bike demand precisely with an R2 Score of 82%
