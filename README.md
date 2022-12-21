@@ -28,7 +28,7 @@ It is required to model the demand for shared bikes with the available independe
 
 ## Conclusions
 
-Significant variables to predict the demand for shared bikes
+Below are the Variables which played a significant role in predicting the demand for shared bikes
 
 * holiday
 * temp
